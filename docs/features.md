@@ -14,3 +14,13 @@ Nutzer können eigene Dashboards erstellen, um die wichtigsten Daten und Metrike
 
 ## Funktion 5: Integration von Drittanbietern
 Das Projekt unterstützt die Integration von Drittanbieter-Tools und -Diensten, um die Funktionalität zu erweitern und eine nahtlose Zusammenarbeit mit anderen Plattformen zu ermöglichen.
+
+
+
+
+## Weitere Seiten:
+- [Einrichtung des Projekts](docs/setup.md)
+
+---
+
+## Zurück zur [Startseite](index.md)
