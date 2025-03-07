@@ -7,7 +7,9 @@
 3. npm start
 
 
-### Verlinkung:
-- Der Link **[Hauptfunktionen des Projekts](features.md)** führt zu der **`features.md`**-Seite.
+## Weitere Seiten:
+- [Hauptfunktionen des Projekts](features.md)
+
+---
 
 ## Zurück zur [Startseite](../index.md)
