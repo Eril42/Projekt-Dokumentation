@@ -17,10 +17,10 @@ Das Projekt unterstützt die Integration von Drittanbieter-Tools und -Diensten, 
 
 
 
-
 ## Weitere Seiten:
 - [Einrichtung des Projekts](setup.md)
 
 ---
 
 ## Zurück zur [Startseite](../index.md)
+
