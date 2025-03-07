@@ -23,4 +23,4 @@ Das Projekt unterstützt die Integration von Drittanbieter-Tools und -Diensten, 
 
 ---
 
-## Zurück zur [Startseite](/index.md)
+## Zurück zur [Startseite](../index.md)
