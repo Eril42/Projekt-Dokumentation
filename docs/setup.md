@@ -9,5 +9,5 @@
 
 ### Verlinkung:
 - Der Link **[Hauptfunktionen des Projekts](docs/features.md)** führt zu der **`features.md`**-Seite.
-- 
+
 ## Zurück zur [Startseite](../index.md)
